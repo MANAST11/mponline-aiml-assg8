@@ -80,7 +80,7 @@ To develop, train, evaluate, and analyze a deep learning classifier based on an 
 ### Visualizations
 
 #### Sample Digit
-![Sample Digit](https://github.com/MANAST11/mponline-aiml-assignment8/sample_digit.png)
+![Sample Digit](https://github.com/MANAST11/mponline-aiml-assg8/blob/main/sample_digit.png)
 
 #### Training Metrics
 ![Accuracy vs Epoch](file:///c:/.antigravity/mponline-aiml-assignment8/accuracy_vs_epoch.png)
