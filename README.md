@@ -83,11 +83,11 @@ To develop, train, evaluate, and analyze a deep learning classifier based on an 
 ![Sample Digit](https://github.com/MANAST11/mponline-aiml-assg8/blob/main/sample_digit.png)
 
 #### Training Metrics
-![Accuracy vs Epoch](file:///c:/.antigravity/mponline-aiml-assignment8/accuracy_vs_epoch.png)
-![Loss vs Epoch](file:///c:/.antigravity/mponline-aiml-assignment8/loss_vs_epoch.png)
+![Accuracy vs Epoch](https://github.com/MANAST11/mponline-aiml-assg8/blob/main/accuracy_vs_epoch.png)
+![Loss vs Epoch](https://github.com/MANAST11/mponline-aiml-assg8/blob/main/loss_vs_epoch.png)
 
 #### Confusion Matrix
-![Confusion Matrix](file:///c:/.antigravity/mponline-aiml-assignment8/confusion_matrix.png)
+![Confusion Matrix](https://github.com/MANAST11/mponline-aiml-assg8/blob/main/confusion_matrix.png)
 
 ### Key Metrics
 - **Test Accuracy**: `97.22%`
